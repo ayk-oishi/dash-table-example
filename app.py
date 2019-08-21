@@ -12,12 +12,12 @@ import pandas as pd
 
 
 ########### Define your variables ######
-myheading = "Best City to live in DC"
+myheading = "Best Wine"
 mysubheading = "August 2019"
-tabtitle = 'python rocks'
+tabtitle = 'Winelover'
 filename = 'wine.csv'
 sourceurl = 'https://www.beeradvocate.com/beer/top-rated/us/dc/'
-githublink = 'https://github.com/austinlasseter/dash-table-example'
+githublink = 'https://github.com/ayk-oishi/dash-table-example'
 
 ########### Set up the data
 df = pd.read_csv(filename)
