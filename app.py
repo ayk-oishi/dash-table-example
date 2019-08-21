@@ -12,7 +12,7 @@ import pandas as pd
 
 
 ########### Define your variables ######
-myheading = "Best Wine"
+myheading = "Wine Information"
 mysubheading = "August 2019"
 tabtitle = 'Winelover'
 filename = 'wine.csv'
