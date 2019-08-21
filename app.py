@@ -16,7 +16,7 @@ myheading = "Wine Information"
 mysubheading = "August 2019"
 tabtitle = 'Winelover'
 filename = 'wine.csv'
-sourceurl = 'https://www.beeradvocate.com/beer/top-rated/us/dc/'
+sourceurl = 'https://raw.githubusercontent.com/ayk-oishi/dash-table-example/master/wine.csv'
 githublink = 'https://github.com/ayk-oishi/dash-table-example'
 
 ########### Set up the data
